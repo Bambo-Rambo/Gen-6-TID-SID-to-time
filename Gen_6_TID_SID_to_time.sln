@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gen_6_TID_SID_to_time", "Gen_6_TID_SID_to_time.csproj", "{3DA67EA2-D07F-4082-9A2C-33E581A5920C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA67EA2-D07F-4082-9A2C-33E581A5920C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA67EA2-D07F-4082-9A2C-33E581A5920C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA67EA2-D07F-4082-9A2C-33E581A5920C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA67EA2-D07F-4082-9A2C-33E581A5920C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A51769-3693-4555-BD52-7B06A1F86C6E}
+	EndGlobalSection
+EndGlobal
